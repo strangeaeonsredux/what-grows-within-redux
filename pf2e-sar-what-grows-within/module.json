@@ -1,0 +1,27 @@
+{
+  "id": "pf2e-sar-what-grows-within",
+  "title": "Strange Aeons Redux 5 of 6: What Grows Within",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "description": "Discover a lost city in Book 5 of Strange Aeons for Pathfinder Second Edition!",
+ "packs": [
+    {
+      "name": "pack-1",
+      "label": "What Grows Within",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
